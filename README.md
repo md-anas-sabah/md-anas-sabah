@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS,Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [anassabahblog.vercel.app/](anassabahblog.vercel.app/)
+- 👨‍💻 All of my projects are available at [anassabahblog.vercel.app](anassabahblog.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/mdanassabah](https://dev.to/mdanassabah)
 
