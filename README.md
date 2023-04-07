@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Anas Sabah</h1>
 <h3 align="center">A passionate CSE student with a love for coding, exploring new technologies, collaborating with others, and creating innovative solutions.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@mdanassabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mdanassabah" height="30" width="40" /></a>
