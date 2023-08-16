@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Anas Sabah</h1>
-<h3 align="center">A passionate CSE student with a love for coding, exploring new technologies, collaborating with others, and creating innovative solutions.</h3>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
